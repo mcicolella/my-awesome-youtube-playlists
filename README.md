@@ -10,6 +10,11 @@
   
 * [Introduzione ad Amazon AWS – Rel. Joe Skop (prima serata)](https://www.youtube.com/watch?v=ywd7KP0RS80)
   
+
+## Amministrazione di Sistema
+  
+* [Ansible - Sergio Corato](https://www.youtube.com/watch?v=lSiBNv1qNDA)
+  
   
 ## Docker & Kubernetes
 
