@@ -6,6 +6,12 @@
   <a href="https://www.youtube.com/c/emmecilab"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
   <a href="https://www.patreon.com/emmecilab"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height=25></a>
 
+## Docker & Kubernetes
+
+* [DevTalks: Live coding con docker e pipelines](https://www.youtube.com/watch?v=dWsG2CtEO6w)
+* [DevTalks: Pipelines loves Docker](https://www.youtube.com/watch?v=-RszWpMW36s)
+
+
 ## Java
 
 ### Live coding
