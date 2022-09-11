@@ -24,6 +24,11 @@
 
 ## Java
 
+### GraalVM
+
+* [GraalVM senza limiti: avviare Hibernate ORM in 5ms e con solo 15MB di memoria - Sanne Grinovero](https://www.youtube.com/watch?v=xfryfdlUNbo)
+
+
 ### Live coding
 
 * [Live coding con Michele Mangiacotti (lead) - Java #2 - 2022 06 24](https://www.youtube.com/watch?v=c51WBIstiP4)
