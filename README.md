@@ -32,3 +32,13 @@
 ### Live coding
 
 * [Live coding con Michele Mangiacotti (lead) - Java #2 - 2022 06 24](https://www.youtube.com/watch?v=c51WBIstiP4)
+
+
+### Speciale COVID-19
+
+* [La matematica del contagio](https://www.youtube.com/watch?v=oSlVnHSWZxs)
+* [la MATEMATICA del CONTAGIO spiegata con i GOL DI DEL PIERO II la fisica che ci piace](https://www.youtube.com/watch?v=_VzM_xYc_zg)
+* [LA MATEMATICA DELLE EPIDEMIE | Il modello SIR](https://www.youtube.com/watch?v=rKUnmst1YxI)
+* [Statistica per i Test Diagnostici, 6 Maggio 2020](https://www.youtube.com/watch?v=HpL1XPiNcoQ)
+
+
