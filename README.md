@@ -42,3 +42,8 @@
 * [Statistica per i Test Diagnostici, 6 Maggio 2020](https://www.youtube.com/watch?v=HpL1XPiNcoQ)
 
 
+## Software Development
+
+* [Domain Driven Design: Un Viaggio Inaspettato [talk di Alberto Mori]](https://www.youtube.com/watch?v=aPea_5PisHk)
+* [Ricette veloci per Domain-Driven Design by Alberto Brandolini](https://www.youtube.com/watch?v=HKID1hpZSVg)
+
